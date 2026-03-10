@@ -12,6 +12,11 @@
 
 <img width="1472" height="749" alt="P-1,DASHBOARD" src="https://github.com/user-attachments/assets/b4a32923-33af-4107-8c9c-7004584b26d6" />
 
+
+## Dashboard File
+The Excel dashboard file can be found here:  
+[PROJECT-1_DASHBOARD.xlsx](https://github.com/user-attachments/files/25883496/PROJECT-1_DASHBOARD.xlsx)
+
 ---
 
 # 📑 Table of Contents
