@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Electric Vehicle Market Intelligence & Infrastructure Analytics Dashboard  
 <img width="1472" height="749" alt="P-1,DASHBOARD" src="https://github.com/user-attachments/assets/b4a32923-33af-4107-8c9c-7004584b26d6" />
 =======
@@ -424,5 +423,3 @@ The dashboard highlights important aspects of the EV ecosystem including:
 - Environmental sustainability
 
 This analysis emphasizes the growing importance of electric vehicles and the role of data-driven insights in understanding the future of sustainable transportation.
-
->>>>>>> 049c03422683c0b4e58a5ce112f5356ddbc347ae
